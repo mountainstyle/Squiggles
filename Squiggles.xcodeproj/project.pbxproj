@@ -95,6 +95,7 @@
 		634D000417C520870090AFDA /* SquigglesSpecs-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SquigglesSpecs-Prefix.pch"; sourceTree = "<group>"; };
 		634D000517C520870090AFDA /* Cedar.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cedar.framework; path = Frameworks/Cedar.framework; sourceTree = "<group>"; };
 		634D000A17C521010090AFDA /* ASCSquiggleSpec.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ASCSquiggleSpec.mm; sourceTree = "<group>"; };
+		634D000C17C522BB0090AFDA /* Rakefile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Rakefile; sourceTree = "<group>"; };
 		634DFFF517C520860090AFDA /* SquigglesSpecs.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SquigglesSpecs.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		634DFFF617C520870090AFDA /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		634DFFF817C520870090AFDA /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = Library/Frameworks/Cocoa.framework; sourceTree = DEVELOPER_DIR; };
@@ -166,8 +167,9 @@
 		2A37F4AAFDCFA73011CA2CEA /* Squiggles */ = {
 			isa = PBXGroup;
 			children = (
-				634EE44517C3DEE300463F5F /* Readme.md */,
 				634EE44417C3C65100463F5F /* .gitignore */,
+				634D000C17C522BB0090AFDA /* Rakefile */,
+				634EE44517C3DEE300463F5F /* Readme.md */,
 				D27374510E1D84C800BFAF79 /* ReadMe.txt */,
 				2A37F4ABFDCFA73011CA2CEA /* Classes */,
 				2A37F4AFFDCFA73011CA2CEA /* Other Sources */,
