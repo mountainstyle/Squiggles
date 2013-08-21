@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'SquigglesSpecs' target in the 'SquigglesSpecs' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+    #import <Cedar/SpecHelper.h>
+#endif

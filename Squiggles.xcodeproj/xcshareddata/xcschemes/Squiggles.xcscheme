@@ -28,6 +28,16 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "634DFFF417C520860090AFDA"
+               BuildableName = "SquigglesSpecs.octest"
+               BlueprintName = "SquigglesSpecs"
+               ReferencedContainer = "container:Squiggles.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
